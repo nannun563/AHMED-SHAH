@@ -1,3 +1,0 @@
-WHAT IS ORACLE VIRTUAL BOX ?
-
-Virtual box is free and open source hypervisor for x86 computer currently being developed  by oracle corporation . its installs an your existing intel or AMD based computer weather they are  runing  windows , macoS ,linux or solar operating system . it extends the capability  of your exsisiting computer so that it can run multiple  operating system on one hardware at the same time 
