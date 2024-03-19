@@ -1,0 +1,1 @@
+Oracle virtual box - vm (power of state ) - take snapshort - give a neme - ok 
